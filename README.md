@@ -203,7 +203,7 @@ MIT License — see [LICENSE](./LICENSE) for details.
 
 **⭐ Star this repo if you found it useful!**
 
-*Built by Team I am QT — Parth, Yash, Aashu, Piyush*
+*Built by Team I am QT — Parth Ajmera, Yashvardhan Dobhal, Aashu Joshi, Piyush Kothari*
 
 **🚀 Onward to Prosperity 5.**
 
